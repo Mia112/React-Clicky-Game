@@ -7,7 +7,7 @@
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0"
   },
-  "homepage": "https://mia112.github.io/react-clicky-game",
+  "homepage": "https://mia112.github.io/React-Clicky-Game",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
