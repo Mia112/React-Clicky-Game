@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+View Demo here: https://mia112.github.io/React-Clicky-Game/
 
 ### `yarn start`
 
